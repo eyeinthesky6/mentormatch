@@ -1,0 +1,17 @@
+[
+    {
+        "name": "John Doe",
+        "message": "MentorMatch helped me find the perfect mentor for my AI startup!",
+        "rating": 5
+    },
+    {
+        "name": "Jane Smith",
+        "message": "A game-changer for anyone looking for career guidance.",
+        "rating": 4.8
+    },
+    {
+        "name": "Carlos Martinez",
+        "message": "I had an incredible mentoring session, totally worth it!",
+        "rating": 4.9
+    }
+]

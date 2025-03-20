@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Alice Johnson",
+        "expertise": "AI & ML",
+        "rating": 4.9,
+        "reviews": 120,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "name": "Mr. Bob Williams",
+        "expertise": "Finance & Investing",
+        "rating": 4.7,
+        "reviews": 98,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 3,
+        "name": "Ms. Clara Smith",
+        "expertise": "Entrepreneurship",
+        "rating": 4.8,
+        "reviews": 110,
+        "image": "https://via.placeholder.com/150"
+    }
+]
